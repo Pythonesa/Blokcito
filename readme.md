@@ -33,3 +33,10 @@ Procesador de texto creado en Java para aprender cositas.
 - Corrección de ortografía
 - Emojis
 - Accesos de teclado
+- Reemplazar tabs por espacios
+- Exportar PDF
+- Salto de página
+- Encabezado
+- Pie de página
+- Insertar imagenes
+- Tablas
