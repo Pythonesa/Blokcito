@@ -31,6 +31,11 @@ Procesador de texto creado en Java para aprender cositas.
 - Reemplazar texto
 - Insertar fecha y hora
 - Corrección de ortografía
+- Contador de letras por línea
+- Contador de palabras por línea
+- Contador de letras totales
+- Contador de palabras totales
+- Contador de líneas
 - Emojis
 - Accesos de teclado
 - Reemplazar tabs por espacios
@@ -39,5 +44,9 @@ Procesador de texto creado en Java para aprender cositas.
 - Encabezado
 - Pie de página
 - Insertar imagenes
-- Tablas
+- Insertar tablas
 - Ayuda
+- Acerca de
+- Pestañas
+- Zoom
+- Resaltar texto
