@@ -40,3 +40,4 @@ Procesador de texto creado en Java para aprender cositas.
 - Pie de página
 - Insertar imagenes
 - Tablas
+- Ayuda
